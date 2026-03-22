@@ -57,6 +57,7 @@ The UI dynamically adapts its color palette and handles multiple device orientat
 1. **Clone the repository / Repoyu klonlayın:**
 ```bash
 git clone [https://github.com/obasm/flutter-responsive-pokedex.git](https://github.com/obasm/flutter-responsive-pokedex.git)
+```
 
 2. **Install dependencies / Bağımlılıkları yükleyin:**
 ```bash
